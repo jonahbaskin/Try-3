@@ -1,0 +1,6 @@
+{
+  "name": "VoteShift",
+  "description": "Encouraging remote workers to temporarily move to increase progressive voter power.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
